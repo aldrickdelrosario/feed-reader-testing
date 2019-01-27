@@ -13,7 +13,7 @@ Open index.html in your browser of choice.
 
 ## Tests
 
-Several tests make sure the application functionins correctly.
+Several tests make sure the application functions correctly.
 
 ### Test: "RSS Feeds"
 
